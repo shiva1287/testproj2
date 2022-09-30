@@ -6,7 +6,7 @@
 	<version>1</version>
 	<packaging>jar</packaging>
 	<name>Spring JPA Project</name>
-	<url>http://www.java2aspire.com</url>
+	
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
